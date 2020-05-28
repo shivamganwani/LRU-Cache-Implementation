@@ -1,3 +1,5 @@
+This is an implementation of the LRU Cache using a doubly linked list.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
