@@ -1,0 +1,40 @@
+.lruMain .header input{
+    padding: 10px;
+    font-size: 16px;
+    border: 2px solid #ffffff;
+    width: 165px;
+} 
+
+.lruMain .header button {
+    padding: 10px;
+    font-size: 16px; 
+    margin: 10px;
+    margin-right: 0px;
+    background-color: #0066FF;
+    color: #FFF;
+    border: 2px solid #0066FF;
+}
+
+.lruMain .header button:hover{
+    background-color: #333;
+    border: 2px solid #949eb1;
+    cursor: pointer;
+}
+
+.lruMain .theList li:hover{
+    background-color: darkgrey;
+}
+.lruMain .theList li{
+    color: #333;
+    background-color: rgb(255,255,55,.5);
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+ul.theList{
+    padding :0px;
+}
